@@ -9,7 +9,7 @@
 }
 
 body{
-    background: url(Task1/images/front-page/front-page-header.jpg) no-repeat;
+    background: url(./Task1/images/front-page/front-page-header.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -382,7 +382,7 @@ h2{
 }
 
 .portfolio{
-    background: url(/Task1/images/front-page/pattern.png) no-repeat;
+    background: url(./Task1/images/front-page/pattern.png) no-repeat;
     background-size: cover;
     background-position: center;
     z-index: 10000;
@@ -412,7 +412,7 @@ h2{
 }
 
 .testimonials{
-    background: url(/Task1/images/testiomnials-background.jpg) no-repeat;
+    background: url(./Task1/images/testiomnials-background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -721,7 +721,7 @@ h2{
 }
 
 .team{
-    background: url(/Task1/images/front-page/pattern.png);
+    background: url(./Task1/images/front-page/pattern.png);
     background-size: cover;
     background-position: center;
 }
